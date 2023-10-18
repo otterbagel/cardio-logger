@@ -1,0 +1,12 @@
+{
+	"theme_color":"#2EDB5A",
+	"background_color":"#000011",
+	"orientation":"any",
+	"display":"standalone",
+	"dir":"auto",
+	"lang":"en-US",
+	"name":"Cardio Logger",
+	"short_name":"Cardio",
+	"start_url":"https://otterbagel.github.io/cardio-logger/",
+	"scope":"https://otterbagel.github.io/cardio-logger/"
+}
